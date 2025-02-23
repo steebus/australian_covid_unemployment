@@ -1,6 +1,6 @@
 # Predicting Unemployment Rates in Australia: A Machine Learning Approach
 
-[![View Analysis](https://img.shields.io/badge/View-Full_Analysis-blue)](https://htmlpreview.github.io/?https://github.com/yourusername/australian_covid_unemployment/blob/main/index.html)
+[![View Analysis](https://img.shields.io/badge/View-Full_Analysis-blue)](https://htmlpreview.github.io/?https://github.com/steebus/australian_covid_unemployment/blob/main/index.html)
 
 ## Project Overview
 The goal of this project was to develop models to predict unemployment rates in Australia by analyzing various economic indicators. This project covered data from 1980 to 2020, including the initial impact of the COVID-19 pandemic.
@@ -75,4 +75,4 @@ This project combined economic analysis with cutting-edge machine learning techn
 - tidyverse
 
 ## How to View
-Click the "View Analysis" badge at the top of this README or [click here](https://htmlpreview.github.io/?https://github.com/yourusername/australian_covid_unemployment/blob/main/index.html) to see the full analysis with interactive visualizations.
+Click the "View Analysis" badge at the top of this README or [click here](https://htmlpreview.github.io/?https://github.com/steebus/australian_covid_unemployment/blob/main/index.html) to see the full analysis with interactive visualizations.
